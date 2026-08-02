@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="morandi_bg">#FAF8F5</color>
+    <color name="morandi_surface">#F5F2ED</color>
+    <color name="morandi_primary">#A8B5A0</color>
+    <color name="morandi_primary_dark">#8A9A82</color>
+    <color name="morandi_secondary">#C4A9A0</color>
+    <color name="morandi_secondary_dark">#A88E85</color>
+    <color name="morandi_text">#5A5753</color>
+    <color name="morandi_text_secondary">#9A9590</color>
+    <color name="morandi_tag_bg">#F0ECE6</color>
+    <color name="morandi_tag_text">#7A7570</color>
+    <color name="morandi_calendar_day">#D4CBBF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
